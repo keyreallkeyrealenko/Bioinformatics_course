@@ -2,6 +2,9 @@
 
 Файл **data/ND.assembly.fa.gz**  содержит сжатую сборку генома уровне длинных контигов _Anopheles beklemishevi_, файл **data/genes.fasta** - фаста файл генов близкого вида _Anopheles atroparvus_. 
 
+
+P.S. Файл pandas_intro.ipynb - файл с занятия по pandas, можете повторить основные разделы по нему
+
 ## Задание 1
 
 Выравняйте genes.fasta на геном ND.assembly.fa.gz с помощью пакета blast+. Выравнивайте с опцией _outfmt 6_. 
